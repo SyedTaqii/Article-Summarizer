@@ -4,7 +4,7 @@ Fine-tuning T5 for text summarization
 
 This repository contains code and a fine-tuned T5 model for generating concise, abstractive summaries of long news articles.
 
-The demo app is deployed on Streamlit Community Cloud (replace the URL below with your app's URL):
+The demo app is deployed on Streamlit Community Cloud:
 
 https://article-summarizer-taqi-tallal.streamlit.app/
 
