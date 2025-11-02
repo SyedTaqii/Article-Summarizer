@@ -82,7 +82,7 @@ st.subheader("Enter Your Article")
 article_input = st.text_area(
     "Paste the full text of the article here:", 
     height=300,
-    placeholder="The rapid advancement of artificial intelligence..."
+    placeholder="Your Article..."
 )
 
 # Generate button
