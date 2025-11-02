@@ -1,0 +1,10 @@
+# Ignore the large model folder
+t5_final_summarizer_model/
+
+# Also ignore the .zip file
+my_t5_model.zip
+spare_model.zip
+
+# Ignore Python's cache files
+__pycache__/
+*.pyc
